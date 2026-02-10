@@ -1,0 +1,3 @@
+google-cloud-secret-manager
+google-api-python-client
+functions-framework
